@@ -1,5 +1,7 @@
 #!/bin/bash
-#ajout d'un autre commentaire dans la branche master
+
+#script de création de partitions et de volumes logiques
+
 #set -x
 #Création d'une table de partitions sur le périphérique spécifié : $1
 create_part_fdisk() {
